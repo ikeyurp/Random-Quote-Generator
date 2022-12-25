@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-*Random Quote Generator is used to generate and download quotes. You can [preview to see what it looks like](https://bhutkeyur.github.io/Random-Quote-Generator/).*
+*Random Quote Generator is used to generate and download quotes. You can [preview to see what it looks like](https://ikeyurp.github.io/Random-Quote-Generator/).*
 
 ## Installation and Usage
 
